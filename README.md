@@ -71,11 +71,7 @@ I'm a **Software Engineer** based in **Stockholm, Sweden** with a passion for bu
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamimKTH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </picture>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tamimKTH&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tamimKTH&theme=default&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=tamimKTH&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tamimKTH&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&dates=C9D1D9&stroke=C9D1D9" height="170" alt="GitHub Streak" />
 
 </div>
 
