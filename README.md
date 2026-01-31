@@ -275,3 +275,4 @@ I'm always open to interesting conversations and collaboration opportunities!
 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
 </div>
+
