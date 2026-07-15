@@ -5,7 +5,7 @@ integration systems. Before that: full-stack engineering and IoT consulting at
 Purspot, with an engineering background from KTH Royal Institute of Technology.
 
 I build production systems with C# / .NET (ASP.NET Core, SignalR, Entity Framework),
-React and TypeScript, and run them on Azure with Docker, GitHub Actions, and SQL Server.
+React and TypeScript, and run them on Azure and AWS with Docker, GitHub Actions, and SQL Server.
 
 **Now building:** [AlgoSweden](https://algosweden.se) — an AI studio that turns a
 plain-language description into a working application, backed by the engineering
