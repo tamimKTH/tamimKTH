@@ -7,6 +7,11 @@ Purspot, with an engineering background from KTH Royal Institute of Technology.
 I build production systems with C# / .NET (ASP.NET Core, SignalR, Entity Framework),
 React and TypeScript, and run them on Azure and AWS with Docker, GitHub Actions, and SQL Server.
 
+Beyond GeniusPay, I run engineering for a handful of ventures across payments, food
+delivery, media, and applied AI — .NET and Go services, Android and Flutter apps, and
+Terraform-managed infrastructure, all in private organization repos. The Go codebase
+in that group is mostly my own.
+
 **Now building:** [AlgoSweden](https://algosweden.se) — an AI studio that turns a
 plain-language description into a working application, backed by the engineering
 practice that takes those systems to production. The site is live; the studio code
