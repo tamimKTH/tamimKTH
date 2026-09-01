@@ -1,26 +1,17 @@
 # Majed Tamim
 
-Software engineer in Stockholm and CTO at GeniusPay AB, where I work on payment
-integration systems. Before that: full-stack engineering and IoT consulting at
-Purspot, with an engineering background from KTH Royal Institute of Technology.
+Chief Technology Officer at **Flo Pay AB**, part of **Northmill Group**, based in Stockholm.
 
-I build production systems with C# / .NET (ASP.NET Core, SignalR, Entity Framework),
-React and TypeScript, and run them on Azure and AWS with Docker, GitHub Actions, and SQL Server.
+I lead technology strategy, architecture, engineering execution and technical direction across fintech, payments and commerce platforms.
 
-Beyond GeniusPay, I run engineering for a handful of ventures across payments, food
-delivery, media, and applied AI — .NET and Go services, Android and Flutter apps, and
-Terraform-managed infrastructure, all in private organization repos. The Go codebase
-in that group is mostly my own.
+My background is hands-on software engineering across **C# / .NET** (ASP.NET Core, Entity Framework, SignalR), **Go**, **React** and **TypeScript**, with production infrastructure on **Azure** and **AWS** using Docker, GitHub Actions, Terraform and SQL Server.
 
-**Now building:** [AlgoSweden](https://algosweden.se) — an AI studio that turns a
-plain-language description into a working application, backed by the engineering
-practice that takes those systems to production. The site is live; the studio code
-stays private while it's under active development.
+I focus on building reliable, scalable systems where engineering decisions translate into measurable product and business outcomes — from payment integrations and POS platforms to cloud infrastructure, automation and AI-assisted engineering.
+
+**Building:** [AlgoSweden](https://algosweden.se) — exploring how modern AI engineering workflows can take software from idea to production faster without sacrificing architecture or maintainability.
 
 Most repositories here form a curated watchlist of the AI coding-agent ecosystem —
 agent frameworks, MCP servers, coding tools — which I follow closely and use daily.
-Product code lives in private repositories.
+Most of my production work is in private organization repositories.
 
-**Open to** consulting engagements and interesting roles.
-Reach me at [majed.tamim@algosweden.se](mailto:majed.tamim@algosweden.se), on
-[LinkedIn](https://www.linkedin.com/in/majed-tamim), or via [algosweden.se](https://algosweden.se).
+**Connect:** [LinkedIn](https://www.linkedin.com/in/majed-tamim) · [AlgoSweden](https://algosweden.se) · [majed.tamim@algosweden.se](mailto:majed.tamim@algosweden.se)
