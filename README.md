@@ -12,4 +12,4 @@ Most repositories here form a curated watchlist of the AI coding-agent ecosystem
 agent frameworks, MCP servers, coding tools, which I follow closely and use daily.
 Most of my production work is in private organization repositories.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/majed-tamim)
+**Connect:** [algosweden.se](https://algosweden.se) · [LinkedIn](https://www.linkedin.com/in/majed-tamim)
